@@ -1,8 +1,5 @@
 package com.equator.common.constraints.exception;
 
-/**
- * Copyright (c) 2014 iPro,Inc. and its affiliates. All rights reserved.
- */
 public class InvalidArgumentException extends RuntimeException {
 
 	private static final long serialVersionUID = 7442653561794343789L;
